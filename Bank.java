@@ -43,5 +43,5 @@ class Test{
 }
 
 
-//hello
+//こんにちは
 
